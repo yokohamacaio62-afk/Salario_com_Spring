@@ -33,7 +33,7 @@ Pré-requisitos: JDK 25 e Maven (ou use o wrapper incluído no projeto).
 
 bash
 # clonar o repositório
-git clone https://github.com/SEU-USUARIO/worker.git
+git clone https://github.com/yokohamacaio62-afk/worker.git
 cd worker
 
 # executar
